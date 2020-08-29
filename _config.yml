@@ -1,0 +1,12 @@
+# Site settings
+title: Storideo
+email: contact@storideo.io
+description: Storideo
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: Storideo
+github_username: Storideo
+
+# Build settings
+markdown: kramdown
